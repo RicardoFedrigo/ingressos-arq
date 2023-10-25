@@ -24,4 +24,4 @@ Observação 1: Este diagrama simplifica a arquitetura e não aborda questões r
 
 Observação 2: Middlewares como CORS, logs, controle de origem cruzada (cross-origin), autentição, ou validação de token, não estão representados no diagrama.
 
-![alt text](./DIGRAMA_INTERNO.jpg)
+![alt text](./diagrama-interno-v1.jpg)
